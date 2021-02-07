@@ -1,0 +1,111 @@
+
+Started scraping Bebek Sinjay A. Yani - Jl. Ahmad Yani at: 2021-01-12 02:52:30.164399
+Sort by 1 is started at: 2021-01-12 02:52:30.166405
+Sort by 1 is ended at: 2021-01-12 02:54:05.892014
+Sort by 2 is started at: 2021-01-12 02:54:15.895062
+Sort by 2 is ended at: 2021-01-12 02:55:52.761127
+Sort by 3 is started at: 2021-01-12 02:56:02.762345
+Sort by 3 is ended at: 2021-01-12 02:57:40.723517
+Sort by 4 is started at: 2021-01-12 02:57:50.724586
+Sort by 4 is ended at: 2021-01-12 02:59:27.251537
+Finished scraping Bebek Sinjay A. Yani - Jl. Ahmad Yani at: 2021-01-12 02:59:37.253443
+Started scraping Bebek Sinjay - Jl. Dharmahusada No.160B at: 2021-01-12 03:01:37.256824
+Sort by 1 is started at: 2021-01-12 03:01:37.257847
+Sort by 1 is ended at: 2021-01-12 03:01:58.002414
+Sort by 2 is started at: 2021-01-12 03:02:08.005041
+Sort by 2 is ended at: 2021-01-12 03:02:29.218652
+Sort by 3 is started at: 2021-01-12 03:02:39.219730
+Sort by 3 is ended at: 2021-01-12 03:03:00.522353
+Sort by 4 is started at: 2021-01-12 03:03:10.523393
+Sort by 4 is ended at: 2021-01-12 03:03:31.071016
+Finished scraping Bebek Sinjay - Jl. Dharmahusada No.160B at: 2021-01-12 03:03:41.072054
+Started scraping Bebek Sinjay - Jl. Tidar No.1 at: 2021-01-12 03:05:41.073093
+Sort by 1 is started at: 2021-01-12 03:05:41.091884
+Sort by 1 is ended at: 2021-01-12 03:06:17.825733
+Sort by 2 is started at: 2021-01-12 03:06:27.826793
+Sort by 2 is ended at: 2021-01-12 03:07:02.204623
+Sort by 3 is started at: 2021-01-12 03:07:12.205686
+Sort by 3 is ended at: 2021-01-12 03:07:45.783504
+Sort by 4 is started at: 2021-01-12 03:07:55.784508
+Sort by 4 is ended at: 2021-01-12 03:08:29.092448
+Finished scraping Bebek Sinjay - Jl. Tidar No.1 at: 2021-01-12 03:08:39.093524
+Started scraping Bebek Sinjay Madura - Jl. Mayjen HR. Muhammad No.71 at: 2021-01-12 03:10:39.094869
+Sort by 1 is started at: 2021-01-12 03:10:39.095816
+Sort by 1 is ended at: 2021-01-12 03:11:03.070109
+Sort by 2 is started at: 2021-01-12 03:11:13.071215
+Sort by 2 is ended at: 2021-01-12 03:11:37.565515
+Sort by 3 is started at: 2021-01-12 03:11:47.566521
+Sort by 3 is ended at: 2021-01-12 03:12:11.400668
+Sort by 4 is started at: 2021-01-12 03:12:21.401805
+Sort by 4 is ended at: 2021-01-12 03:12:45.466833
+Finished scraping Bebek Sinjay Madura - Jl. Mayjen HR. Muhammad No.71 at: 2021-01-12 03:12:55.469221
+Started scraping Almond Spikoe Bon Gout Cabang Bu Rudy Dharmahusada - Jl. Dharmahusada No.140 at: 2021-01-12 03:14:55.471330
+Sort by 1 is started at: 2021-01-12 03:14:55.472270
+Sort by 1 is ended at: 2021-01-12 03:17:49.741543
+Sort by 2 is started at: 2021-01-12 03:17:59.742548
+Sort by 2 is ended at: 2021-01-12 03:21:18.324383
+Sort by 3 is started at: 2021-01-12 03:21:28.325783
+Sort by 3 is ended at: 2021-01-12 03:24:17.047079
+Sort by 4 is started at: 2021-01-12 03:24:27.048976
+Sort by 4 is ended at: 2021-01-12 03:27:11.747581
+Finished scraping Almond Spikoe Bon Gout Cabang Bu Rudy Dharmahusada - Jl. Dharmahusada No.140 at: 2021-01-12 03:27:21.748587
+Started scraping Depot Bu Rudy - Pasar Atom Mail Lt. 4 No. 25 at: 2021-01-12 03:29:21.749655
+Sort by 1 is started at: 2021-01-12 03:29:21.846845
+Sort by 1 is ended at: 2021-01-12 03:29:23.060748
+Sort by 2 is started at: 2021-01-12 03:29:33.061874
+Sort by 2 is ended at: 2021-01-12 03:29:34.298391
+Sort by 3 is started at: 2021-01-12 03:29:44.299708
+Sort by 3 is ended at: 2021-01-12 03:29:45.502094
+Sort by 4 is started at: 2021-01-12 03:29:55.503157
+Sort by 4 is ended at: 2021-01-12 03:29:56.745326
+Finished scraping Depot Bu Rudy - Pasar Atom Mail Lt. 4 No. 25 at: 2021-01-12 03:30:06.746416
+Started scraping Depot Bu Rudy - Jl. Anjasmoro No.45 at: 2021-01-12 03:32:06.747645
+Sort by 1 is started at: 2021-01-12 03:32:06.876940
+Sort by 1 is ended at: 2021-01-12 03:33:03.156852
+Sort by 2 is started at: 2021-01-12 03:33:13.157931
+Sort by 2 is ended at: 2021-01-12 03:34:12.612098
+Sort by 3 is started at: 2021-01-12 03:34:22.613810
+Sort by 3 is ended at: 2021-01-12 03:35:19.158063
+Sort by 4 is started at: 2021-01-12 03:35:29.159536
+Sort by 4 is ended at: 2021-01-12 03:36:24.241874
+Finished scraping Depot Bu Rudy - Jl. Anjasmoro No.45 at: 2021-01-12 03:36:34.243159
+Started scraping Depot Bu Rudy Kupang Indah - Jl. Raya Kupang Indah No.5 at: 2021-01-12 03:38:34.244559
+Sort by 1 is started at: 2021-01-12 03:38:34.260552
+Sort by 1 is ended at: 2021-01-12 03:39:13.785073
+Sort by 2 is started at: 2021-01-12 03:39:23.786417
+Sort by 2 is ended at: 2021-01-12 03:40:02.530351
+Sort by 3 is started at: 2021-01-12 03:40:12.531443
+Sort by 3 is ended at: 2021-01-12 03:40:51.224270
+Sort by 4 is started at: 2021-01-12 03:41:01.225294
+Sort by 4 is ended at: 2021-01-12 03:41:39.188075
+Finished scraping Depot Bu Rudy Kupang Indah - Jl. Raya Kupang Indah No.5 at: 2021-01-12 03:41:49.189138
+Started scraping Soto Ayam Lamongan Cak HAR - Jl. Dr. Ir. H. Soekarno No.220 at: 2021-01-12 03:43:49.190224
+Sort by 1 is started at: 2021-01-12 03:43:49.191246
+Sort by 1 is ended at: 2021-01-12 03:48:14.753405
+Sort by 2 is started at: 2021-01-12 03:48:24.754509
+Sort by 2 is ended at: 2021-01-12 03:53:33.681214
+Sort by 3 is started at: 2021-01-12 03:53:43.682280
+Sort by 3 is ended at: 2021-01-12 03:58:13.248482
+Sort by 4 is started at: 2021-01-12 03:58:23.248544
+Sort by 4 is ended at: 2021-01-12 04:02:51.454448
+Finished scraping Soto Ayam Lamongan Cak HAR - Jl. Dr. Ir. H. Soekarno No.220 at: 2021-01-12 04:03:01.455094
+Started scraping Soto Ayam Lamongan Cak Har - Jl. Arief Rahman Hakim at: 2021-01-12 04:05:01.455297
+Sort by 1 is started at: 2021-01-12 04:05:01.456078
+Sort by 1 is ended at: 2021-01-12 04:05:51.370446
+Sort by 2 is started at: 2021-01-12 04:06:01.371327
+Sort by 2 is ended at: 2021-01-12 04:06:53.441585
+Sort by 3 is started at: 2021-01-12 04:07:03.441646
+Sort by 3 is ended at: 2021-01-12 04:07:59.274220
+Sort by 4 is started at: 2021-01-12 04:08:09.276015
+Sort by 4 is ended at: 2021-01-12 04:08:58.996819
+Finished scraping Soto Ayam Lamongan Cak Har - Jl. Arief Rahman Hakim at: 2021-01-12 04:09:08.996883
+Started scraping Soto Ayam Lamongan Cak Har - Jl. Raya Menganti Karangan No.45 at: 2021-01-12 04:11:08.997100
+Sort by 1 is started at: 2021-01-12 04:11:08.997100
+Sort by 1 is ended at: 2021-01-12 04:11:26.103557
+Sort by 2 is started at: 2021-01-12 04:11:36.104581
+Sort by 2 is ended at: 2021-01-12 04:11:53.060866
+Sort by 3 is started at: 2021-01-12 04:12:03.061609
+Sort by 3 is ended at: 2021-01-12 04:12:21.449166
+Sort by 4 is started at: 2021-01-12 04:12:31.450870
+Sort by 4 is ended at: 2021-01-12 04:12:48.014214
+Finished scraping Soto Ayam Lamongan Cak Har - Jl. Raya Menganti Karangan No.45 at: 2021-01-12 04:12:58.015234

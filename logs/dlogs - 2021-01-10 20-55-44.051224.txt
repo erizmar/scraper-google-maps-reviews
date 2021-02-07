@@ -1,0 +1,171 @@
+
+Started scraping Hutan Kota Balas Klumprik at: 2021-01-10 20:55:44.062219
+Sort by 1 is started at: 2021-01-10 20:55:44.064220
+Sort by 1 is ended at: 2021-01-10 20:55:52.539807
+Sort by 2 is started at: 2021-01-10 20:56:02.543064
+Sort by 2 is ended at: 2021-01-10 20:56:08.007814
+Sort by 3 is started at: 2021-01-10 20:56:18.009881
+Sort by 3 is ended at: 2021-01-10 20:56:23.804548
+Sort by 4 is started at: 2021-01-10 20:56:33.810925
+Sort by 4 is ended at: 2021-01-10 20:56:39.329617
+Finished scraping Hutan Kota Balas Klumprik at: 2021-01-10 20:56:49.330713
+Started scraping Gado - Gado Arjuna Pak Satumin at: 2021-01-10 20:58:49.332165
+Sort by 1 is started at: 2021-01-10 20:58:49.333327
+Sort by 1 is ended at: 2021-01-10 20:58:58.194266
+Sort by 2 is started at: 2021-01-10 20:59:08.196484
+Sort by 2 is ended at: 2021-01-10 20:59:16.515984
+Sort by 3 is started at: 2021-01-10 20:59:26.517024
+Sort by 3 is ended at: 2021-01-10 20:59:34.803067
+Sort by 4 is started at: 2021-01-10 20:59:44.804129
+Sort by 4 is ended at: 2021-01-10 20:59:53.008130
+Finished scraping Gado - Gado Arjuna Pak Satumin at: 2021-01-10 21:00:03.012193
+Started scraping Museum De Javasche Bank at: 2021-01-10 21:02:03.013342
+Sort by 1 is started at: 2021-01-10 21:02:03.014329
+Sort by 1 is ended at: 2021-01-10 21:02:23.541188
+Sort by 2 is started at: 2021-01-10 21:02:33.542397
+Sort by 2 is ended at: 2021-01-10 21:02:48.767993
+Sort by 3 is started at: 2021-01-10 21:02:58.770393
+Sort by 3 is ended at: 2021-01-10 21:03:12.745087
+Sort by 4 is started at: 2021-01-10 21:03:22.746618
+Sort by 4 is ended at: 2021-01-10 21:03:37.535958
+Finished scraping Museum De Javasche Bank at: 2021-01-10 21:03:47.538005
+Started scraping Balai Pemuda Surabaya at: 2021-01-10 21:05:47.539075
+Sort by 1 is started at: 2021-01-10 21:05:47.542346
+Sort by 1 is ended at: 2021-01-10 21:06:44.197032
+Sort by 2 is started at: 2021-01-10 21:06:54.200887
+Sort by 2 is ended at: 2021-01-10 21:07:51.556642
+Sort by 3 is started at: 2021-01-10 21:08:01.558686
+Sort by 3 is ended at: 2021-01-10 21:08:58.009350
+Sort by 4 is started at: 2021-01-10 21:09:08.011831
+Sort by 4 is ended at: 2021-01-10 21:10:06.477079
+Finished scraping Balai Pemuda Surabaya at: 2021-01-10 21:10:16.479149
+Started scraping Bebek Goreng Palupi Rungkut at: 2021-01-10 21:12:16.480237
+Sort by 1 is started at: 2021-01-10 21:12:16.481245
+Sort by 1 is ended at: 2021-01-10 21:13:28.903073
+Sort by 2 is started at: 2021-01-10 21:13:38.904084
+Sort by 2 is ended at: 2021-01-10 21:14:52.088963
+Sort by 3 is started at: 2021-01-10 21:15:02.090751
+Sort by 3 is ended at: 2021-01-10 21:16:13.039051
+Sort by 4 is started at: 2021-01-10 21:16:23.040263
+Sort by 4 is ended at: 2021-01-10 21:17:31.354911
+Finished scraping Bebek Goreng Palupi Rungkut at: 2021-01-10 21:17:41.356159
+Started scraping Cakcuk Cafe Surabaya at: 2021-01-10 21:19:41.357365
+Sort by 1 is started at: 2021-01-10 21:19:41.358387
+Sort by 1 is ended at: 2021-01-10 21:20:02.309697
+Sort by 2 is started at: 2021-01-10 21:20:12.312392
+Sort by 2 is ended at: 2021-01-10 21:20:35.591722
+Sort by 3 is started at: 2021-01-10 21:20:45.670163
+Sort by 3 is ended at: 2021-01-10 21:21:07.387734
+Sort by 4 is started at: 2021-01-10 21:21:17.391618
+Sort by 4 is ended at: 2021-01-10 21:21:37.570393
+Finished scraping Cakcuk Cafe Surabaya at: 2021-01-10 21:21:47.573463
+Started scraping UPT. TAMAN BUDAYA JAWA TIMUR at: 2021-01-10 21:23:47.575449
+Sort by 1 is started at: 2021-01-10 21:23:47.577412
+Sort by 1 is ended at: 2021-01-10 21:24:40.904969
+Sort by 2 is started at: 2021-01-10 21:24:50.907226
+Sort by 2 is ended at: 2021-01-10 21:25:45.970835
+Sort by 3 is started at: 2021-01-10 21:25:56.020870
+Sort by 3 is ended at: 2021-01-10 21:26:49.721833
+Sort by 4 is started at: 2021-01-10 21:26:59.724856
+Sort by 4 is ended at: 2021-01-10 21:27:50.530700
+Finished scraping UPT. TAMAN BUDAYA JAWA TIMUR at: 2021-01-10 21:28:00.532183
+Started scraping Ciputra Waterpark at: 2021-01-10 21:30:00.533579
+Sort by 1 is started at: 2021-01-10 21:30:00.534580
+Sort by 1 is ended at: 2021-01-10 21:31:02.434176
+Sort by 2 is started at: 2021-01-10 21:31:12.440570
+Sort by 2 is ended at: 2021-01-10 21:32:15.353857
+Sort by 3 is started at: 2021-01-10 21:32:25.355976
+Sort by 3 is ended at: 2021-01-10 21:33:23.667291
+Sort by 4 is started at: 2021-01-10 21:33:33.668332
+Sort by 4 is ended at: 2021-01-10 21:34:30.910397
+Finished scraping Ciputra Waterpark at: 2021-01-10 21:34:40.912548
+Started scraping Mall DTC Wonokromo at: 2021-01-10 21:36:40.915257
+Sort by 1 is started at: 2021-01-10 21:36:40.918254
+Sort by 1 is ended at: 2021-01-10 21:38:17.413781
+Sort by 2 is started at: 2021-01-10 21:38:27.416539
+Sort by 2 is ended at: 2021-01-10 21:40:09.770772
+Sort by 3 is started at: 2021-01-10 21:40:19.773019
+Sort by 3 is ended at: 2021-01-10 21:41:59.198877
+Sort by 4 is started at: 2021-01-10 21:42:09.200344
+Sort by 4 is ended at: 2021-01-10 21:43:40.662928
+Finished scraping Mall DTC Wonokromo at: 2021-01-10 21:43:50.664055
+Started scraping Danau Unesa Lidah Wetan at: 2021-01-10 21:45:50.665734
+Sort by 1 is started at: 2021-01-10 21:45:50.668731
+Sort by 1 is ended at: 2021-01-10 21:46:49.397068
+Sort by 2 is started at: 2021-01-10 21:46:59.398092
+Sort by 2 is ended at: 2021-01-10 21:47:59.280505
+Sort by 3 is started at: 2021-01-10 21:48:09.282861
+Sort by 3 is ended at: 2021-01-10 21:49:06.356269
+Sort by 4 is started at: 2021-01-10 21:49:16.358275
+Sort by 4 is ended at: 2021-01-10 21:50:12.453545
+Finished scraping Danau Unesa Lidah Wetan at: 2021-01-10 21:50:22.455559
+Started scraping Depot Pak Qomar (Bebek Goreng & Ayam Goreng) at: 2021-01-10 21:52:22.457203
+Sort by 1 is started at: 2021-01-10 21:52:22.458478
+Sort by 1 is ended at: 2021-01-10 21:52:38.562782
+Sort by 2 is started at: 2021-01-10 21:52:48.564337
+Sort by 2 is ended at: 2021-01-10 21:53:06.150236
+Sort by 3 is started at: 2021-01-10 21:53:16.151314
+Sort by 3 is ended at: 2021-01-10 21:53:32.710065
+Sort by 4 is started at: 2021-01-10 21:53:42.712129
+Sort by 4 is ended at: 2021-01-10 21:53:58.782565
+Finished scraping Depot Pak Qomar (Bebek Goreng & Ayam Goreng) at: 2021-01-10 21:54:08.785104
+Started scraping Zangrandi Ice Cream at: 2021-01-10 21:56:08.786151
+Sort by 1 is started at: 2021-01-10 21:56:08.788169
+Sort by 1 is ended at: 2021-01-10 21:58:17.888969
+Sort by 2 is started at: 2021-01-10 21:58:27.889975
+Sort by 2 is ended at: 2021-01-10 22:00:46.760781
+Sort by 3 is started at: 2021-01-10 22:00:56.761981
+Sort by 3 is ended at: 2021-01-10 22:03:12.965508
+Sort by 4 is started at: 2021-01-10 22:03:22.966541
+Sort by 4 is ended at: 2021-01-10 22:05:27.332475
+Finished scraping Zangrandi Ice Cream at: 2021-01-10 22:05:37.334132
+Started scraping Food Festival at: 2021-01-10 22:07:37.336082
+Sort by 1 is started at: 2021-01-10 22:07:37.337252
+Sort by 1 is ended at: 2021-01-10 22:09:46.136639
+Sort by 2 is started at: 2021-01-10 22:09:56.138283
+Sort by 2 is ended at: 2021-01-10 22:12:15.679077
+Sort by 3 is started at: 2021-01-10 22:12:25.681074
+Sort by 3 is ended at: 2021-01-10 22:14:32.630557
+Sort by 4 is started at: 2021-01-10 22:14:42.633421
+Sort by 4 is ended at: 2021-01-10 22:16:49.974665
+Finished scraping Food Festival at: 2021-01-10 22:16:59.976727
+Started scraping Food Junction Grand Pakuwon at: 2021-01-10 22:18:59.978277
+Sort by 1 is started at: 2021-01-10 22:18:59.979477
+Sort by 1 is ended at: 2021-01-10 22:25:27.779097
+Sort by 2 is started at: 2021-01-10 22:25:37.782144
+Sort by 2 is ended at: 2021-01-10 22:33:35.084767
+Sort by 3 is started at: 2021-01-10 22:33:45.086043
+Sort by 3 is ended at: 2021-01-10 22:39:50.437484
+Sort by 4 is started at: 2021-01-10 22:40:00.440145
+Sort by 4 is ended at: 2021-01-10 22:45:56.459012
+Finished scraping Food Junction Grand Pakuwon at: 2021-01-10 22:46:06.462479
+Started scraping G WALK at: 2021-01-10 22:48:06.693776
+Sort by 1 is started at: 2021-01-10 22:48:06.694790
+Sort by 1 is ended at: 2021-01-10 22:49:33.965574
+Sort by 2 is started at: 2021-01-10 22:49:43.968370
+Sort by 2 is ended at: 2021-01-10 22:51:30.719509
+Sort by 3 is started at: 2021-01-10 22:51:40.726571
+Sort by 3 is ended at: 2021-01-10 22:53:11.749371
+Sort by 4 is started at: 2021-01-10 22:53:21.752124
+Sort by 4 is ended at: 2021-01-10 22:54:52.644072
+Finished scraping G WALK at: 2021-01-10 22:55:02.647669
+Started scraping Galaxy Mall 3 at: 2021-01-10 22:57:02.648711
+Sort by 1 is started at: 2021-01-10 22:57:02.649717
+Sort by 1 is ended at: 2021-01-10 22:58:59.558236
+Sort by 2 is started at: 2021-01-10 22:59:09.559300
+Sort by 2 is ended at: 2021-01-10 23:01:12.051859
+Sort by 3 is started at: 2021-01-10 23:01:22.054621
+Sort by 3 is ended at: 2021-01-10 23:03:18.789574
+Sort by 4 is started at: 2021-01-10 23:03:28.792243
+Sort by 4 is ended at: 2021-01-10 23:05:27.590778
+Finished scraping Galaxy Mall 3 at: 2021-01-10 23:05:37.595107
+Started scraping Surabaya Museum (Gedung Siola) at: 2021-01-10 23:07:37.597084
+Sort by 1 is started at: 2021-01-10 23:07:37.600083
+Sort by 1 is ended at: 2021-01-10 23:09:19.281570
+Sort by 2 is started at: 2021-01-10 23:09:29.288783
+Sort by 2 is ended at: 2021-01-10 23:11:14.039639
+Sort by 3 is started at: 2021-01-10 23:11:24.048398
+Sort by 3 is ended at: 2021-01-10 23:13:03.487526
+Sort by 4 is started at: 2021-01-10 23:13:13.490140
+Sort by 4 is ended at: 2021-01-10 23:14:50.296374
+Finished scraping Surabaya Museum (Gedung Siola) at: 2021-01-10 23:15:00.297899

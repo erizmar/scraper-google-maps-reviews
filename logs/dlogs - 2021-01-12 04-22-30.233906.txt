@@ -1,0 +1,115 @@
+
+Started scraping Amanda Brownies - Jl. Kutai No.8 at: 2021-01-12 04:22:30.247898
+Finished scraping Amanda Brownies - Jl. Kutai No.8 at: 2021-01-12 04:22:38.926093
+Started scraping Brownies Amanda - Jl. Blauran No.58-60 at: 2021-01-12 04:22:48.934192
+Finished scraping Brownies Amanda - Jl. Blauran No.58-60 at: 2021-01-12 04:22:50.273925
+Started scraping Amanda Brownies Kukus - Jl. Raya Mulyosari No.95F at: 2021-01-12 04:23:00.274948
+Finished scraping Amanda Brownies Kukus - Jl. Raya Mulyosari No.95F at: 2021-01-12 04:23:05.978558
+Started scraping Amanda Brownies - Jl. Barata Jaya XIX No.26 at: 2021-01-12 04:23:15.978887
+Finished scraping Amanda Brownies - Jl. Barata Jaya XIX No.26 at: 2021-01-12 04:23:30.272311
+Started scraping Brownies Kukus Amanda - Jl. Mayjen HR. Muhammad No.113 at: 2021-01-12 04:23:40.274219
+Finished scraping Brownies Kukus Amanda - Jl. Mayjen HR. Muhammad No.113 at: 2021-01-12 04:23:41.777294
+Started scraping Amanda Brownies - Royal Plaza at: 2021-01-12 04:23:51.777794
+Finished scraping Amanda Brownies - Royal Plaza at: 2021-01-12 04:23:53.020458
+Started scraping Amanda Brownies - Jl. Menganti Wiyung No.25 at: 2021-01-12 04:24:03.021536
+Finished scraping Amanda Brownies - Jl. Menganti Wiyung No.25 at: 2021-01-12 04:24:04.314092
+Started scraping Amanda - Plaza Surabaya at: 2021-01-12 04:24:14.315855
+Finished scraping Amanda - Plaza Surabaya at: 2021-01-12 04:24:15.597275
+Started scraping Amanda Roti - The Square at: 2021-01-12 04:24:25.597339
+Finished scraping Amanda Roti - The Square at: 2021-01-12 04:24:26.843549
+Started scraping Lapis Kukus Pahlawan - Pusat Oleh Oleh Khas Surabaya - Jl. Genteng Besar No.77 at: 2021-01-12 04:24:36.843614
+Finished scraping Lapis Kukus Pahlawan - Pusat Oleh Oleh Khas Surabaya - Jl. Genteng Besar No.77 at: 2021-01-12 04:24:39.554210
+Started scraping Lapis Kukus Pahlawan - Pusat Oleh Oleh Khas Surabaya - Jl. Diponegoro No.73 at: 2021-01-12 04:24:49.556165
+Finished scraping Lapis Kukus Pahlawan - Pusat Oleh Oleh Khas Surabaya - Jl. Diponegoro No.73 at: 2021-01-12 04:24:53.644982
+Started scraping Lapis Kukus Pahlawan Surabaya - Jl. Dharmahusada Utara No.140 at: 2021-01-12 04:25:03.646044
+Finished scraping Lapis Kukus Pahlawan Surabaya - Jl. Dharmahusada Utara No.140 at: 2021-01-12 04:25:04.826229
+Started scraping Lapis Kukus Pahlawan Surabaya - Jl. Ketintang Madya No.109 at: 2021-01-12 04:25:14.826292
+Finished scraping Lapis Kukus Pahlawan Surabaya - Jl. Ketintang Madya No.109 at: 2021-01-12 04:25:16.070116
+Started scraping Lapis Kukus Pahlawan - Jl. Ahmad Yani No.285 B at: 2021-01-12 04:25:26.071605
+Finished scraping Lapis Kukus Pahlawan - Jl. Ahmad Yani No.285 B at: 2021-01-12 04:25:27.326483
+Started scraping Lapis Kukus Pahlawan - Pusat Oleh Oleh Khas Surabaya - Stasiun Pasar Turi at: 2021-01-12 04:25:37.327472
+Finished scraping Lapis Kukus Pahlawan - Pusat Oleh Oleh Khas Surabaya - Stasiun Pasar Turi at: 2021-01-12 04:25:38.630470
+Started scraping Toko Roti Lapis Kukus Pahlawan Surabaya - Jl. Kutisari Sel. No.66 at: 2021-01-12 04:25:48.631313
+Finished scraping Toko Roti Lapis Kukus Pahlawan Surabaya - Jl. Kutisari Sel. No.66 at: 2021-01-12 04:25:49.907133
+Started scraping Lapis Kukus Pahlawan - Pusat Oleh Oleh Khas Surabaya - Stasiun Gubeng at: 2021-01-12 04:25:59.907816
+Finished scraping Lapis Kukus Pahlawan - Pusat Oleh Oleh Khas Surabaya - Stasiun Gubeng at: 2021-01-12 04:26:01.766672
+Started scraping Lapis Kukus Pahlawan Surabaya - SPBU Pertamina Wadung Asri (Pondok Candra) at: 2021-01-12 04:26:11.768012
+Finished scraping Lapis Kukus Pahlawan Surabaya - SPBU Pertamina Wadung Asri (Pondok Candra) at: 2021-01-12 04:26:13.041120
+Started scraping Lapis Kukus Pahlawan Surabaya - Jl. Bratang Binangun No.27 at: 2021-01-12 04:26:23.043189
+Finished scraping Lapis Kukus Pahlawan Surabaya - Jl. Bratang Binangun No.27 at: 2021-01-12 04:26:24.355900
+Started scraping Toko Noer Raya Lapis Kukus Pahlawan - Jl. Kenjeran No.23 at: 2021-01-12 04:26:34.356955
+Finished scraping Toko Noer Raya Lapis Kukus Pahlawan - Jl. Kenjeran No.23 at: 2021-01-12 04:26:35.952818
+Started scraping Bonalia (Lapis Kukus Pahlawan) Surabaya - Jl. Balas Klumprik No.3 at: 2021-01-12 04:26:45.952898
+Finished scraping Bonalia (Lapis Kukus Pahlawan) Surabaya - Jl. Balas Klumprik No.3 at: 2021-01-12 04:26:47.134838
+Started scraping Lapis Kukus Pahlawan Surabaya Kendung - Jl. Kendung No.78 at: 2021-01-12 04:26:57.135923
+Finished scraping Lapis Kukus Pahlawan Surabaya Kendung - Jl. Kendung No.78 at: 2021-01-12 04:26:58.311256
+Started scraping Lapis Kukus Pahlawan Merr - Jl. Dr. Ir. H. Soekarno No.31 at: 2021-01-12 04:27:08.312361
+Finished scraping Lapis Kukus Pahlawan Merr - Jl. Dr. Ir. H. Soekarno No.31 at: 2021-01-12 04:27:09.561934
+Started scraping Toko Oleh Oleh Disurabaya - Lapis Kukus Surabaya Pahlawan - Jl. Raya Mulyosari No.376 at: 2021-01-12 04:27:19.561997
+Finished scraping Toko Oleh Oleh Disurabaya - Lapis Kukus Surabaya Pahlawan - Jl. Raya Mulyosari No.376 at: 2021-01-12 04:27:28.356838
+Started scraping Mitra Lapis Kukus Surabaya - Jl. Darmo Indah Selatan Blok DD No.33 at: 2021-01-12 04:27:38.357908
+Finished scraping Mitra Lapis Kukus Surabaya - Jl. Darmo Indah Selatan Blok DD No.33 at: 2021-01-12 04:27:39.532454
+Started scraping Toko Rania - Jl. Kedung Cowek No.46 at: 2021-01-12 04:27:49.533475
+Finished scraping Toko Rania - Jl. Kedung Cowek No.46 at: 2021-01-12 04:27:50.834124
+Started scraping Lapis Kukus PAHLAWAN (Mitra Resmi) - Jl. Raya Mastrip No.17 at: 2021-01-12 04:28:00.835194
+Finished scraping Lapis Kukus PAHLAWAN (Mitra Resmi) - Jl. Raya Mastrip No.17 at: 2021-01-12 04:28:02.006893
+Started scraping D'Brusli Lapis kukus pahlawan - Jl. Manukan Tengah No. 9 at: 2021-01-12 04:28:12.007980
+Finished scraping D'Brusli Lapis kukus pahlawan - Jl. Manukan Tengah No. 9 at: 2021-01-12 04:28:13.287002
+Started scraping Nasi Goreng Jancuk - Jalan Ahmad Yani No. 288 at: 2021-01-12 04:28:23.288062
+Finished scraping Nasi Goreng Jancuk - Jalan Ahmad Yani No. 288 at: 2021-01-12 04:28:24.487891
+Started scraping Nasi Goreng JK | Surabaya Suites Hotel - Jl. Plaza Boulevard No.33-35 at: 2021-01-12 04:28:34.488955
+Finished scraping Nasi Goreng JK | Surabaya Suites Hotel - Jl. Plaza Boulevard No.33-35 at: 2021-01-12 04:28:37.049701
+Started scraping Nasi goreng jancuk - Plaza Surabaya at: 2021-01-12 04:28:47.050728
+Finished scraping Nasi goreng jancuk - Plaza Surabaya at: 2021-01-12 04:28:48.263082
+Started scraping Surabaya Plaza Hotel Nasi Goreng Jancok - Jl. Pemuda at: 2021-01-12 04:28:58.263988
+Finished scraping Surabaya Plaza Hotel Nasi Goreng Jancok - Jl. Pemuda at: 2021-01-12 04:28:59.616344
+Started scraping Nasi Goreng Jancuk Tunjungan Plaza - Tunjungan Plaza 1 lantai 5 at: 2021-01-12 04:29:09.617414
+Finished scraping Nasi Goreng Jancuk Tunjungan Plaza - Tunjungan Plaza 1 lantai 5 at: 2021-01-12 04:29:10.847565
+Started scraping Nasi Goreng Jancuk - Royal Plaza Lt 3 Blok O1-15 Jl. Ahmad Yani at: 2021-01-12 04:29:20.849208
+Finished scraping Nasi Goreng Jancuk - Royal Plaza Lt 3 Blok O1-15 Jl. Ahmad Yani at: 2021-01-12 04:29:22.131051
+Started scraping Nasi Goreng Jancok - Jl. Blauran No.26 D at: 2021-01-12 04:29:32.131991
+Finished scraping Nasi Goreng Jancok - Jl. Blauran No.26 D at: 2021-01-12 04:29:33.400405
+Started scraping Rumah Batik Surabaya - Jl. Putat Jaya Barat VIII B No.31 at: 2021-01-12 04:29:43.402639
+Finished scraping Rumah Batik Surabaya - Jl. Putat Jaya Barat VIII B No.31 at: 2021-01-12 04:29:44.892133
+Started scraping Rumah Batik Jawa Timur - Jl. Dukuh Bulak Banteng Tim. No.94 at: 2021-01-12 04:29:54.893197
+Finished scraping Rumah Batik Jawa Timur - Jl. Dukuh Bulak Banteng Tim. No.94 at: 2021-01-12 04:29:57.756181
+Started scraping Lontong Balap Asli Pak Gendut (Pusat) - Jl. Mayjen Prof. Dr. Moestopo No.11 at: 2021-01-12 04:30:07.756242
+Finished scraping Lontong Balap Asli Pak Gendut (Pusat) - Jl. Mayjen Prof. Dr. Moestopo No.11 at: 2021-01-12 04:30:25.526621
+Started scraping Lontong Balap Garuda "Pak Gendut" - Jl. Embong Malang No.38 at: 2021-01-12 04:30:35.527665
+Finished scraping Lontong Balap Garuda "Pak Gendut" - Jl. Embong Malang No.38 at: 2021-01-12 04:30:44.318583
+Started scraping Lontong Balap Pak Gendut Asli - Jl. Penataran No.1 at: 2021-01-12 04:30:54.319612
+Finished scraping Lontong Balap Pak Gendut Asli - Jl. Penataran No.1 at: 2021-01-12 04:30:56.227267
+Started scraping LONTONG BALAP PAK GENDUT SURABAYA - Jl. Kranggan depan bioskop garuda lama No.71 at: 2021-01-12 04:31:06.268306
+Finished scraping LONTONG BALAP PAK GENDUT SURABAYA - Jl. Kranggan depan bioskop garuda lama No.71 at: 2021-01-12 04:31:48.891454
+Started scraping Soto Madura Tapak Siring - Jl. Residen Sudirman No.55 B at: 2021-01-12 04:31:58.892819
+Finished scraping Soto Madura Tapak Siring - Jl. Residen Sudirman No.55 B at: 2021-01-12 04:32:08.633567
+Started scraping Soto Tapak Siring - Jl. Dharmahusada No.14C at: 2021-01-12 04:32:18.634601
+Finished scraping Soto Tapak Siring - Jl. Dharmahusada No.14C at: 2021-01-12 04:32:44.485241
+Started scraping Spesial Belut Surabaya - Jl. Banyu Urip No.139 at: 2021-01-12 04:32:54.486535
+Finished scraping Spesial Belut Surabaya - Jl. Banyu Urip No.139 at: 2021-01-12 04:33:16.614222
+Started scraping SBS Spesial Belut Surabaya - Jl. Kayoon No.40 at: 2021-01-12 04:33:26.616679
+Finished scraping SBS Spesial Belut Surabaya - Jl. Kayoon No.40 at: 2021-01-12 04:33:41.679932
+Started scraping Spesial Belut Surabaya - Jl. Raya Wiyung No.22 at: 2021-01-12 04:33:51.680999
+Finished scraping Spesial Belut Surabaya - Jl. Raya Wiyung No.22 at: 2021-01-12 04:34:00.083297
+Started scraping SPESIAL BELUT SURABAYA H. POER - Jl. Raya Mulyosari No.394 at: 2021-01-12 04:34:10.083361
+Finished scraping SPESIAL BELUT SURABAYA H. POER - Jl. Raya Mulyosari No.394 at: 2021-01-12 04:34:20.624520
+Started scraping Spesial Belut Surabaya - H. Poer - Jl. Kapas Krampung No.154 at: 2021-01-12 04:34:30.625569
+Finished scraping Spesial Belut Surabaya - H. Poer - Jl. Kapas Krampung No.154 at: 2021-01-12 04:34:35.805820
+Started scraping Spesial Belut Surabaya - Jl. Ahmad Yani No.219 at: 2021-01-12 04:34:45.806891
+Finished scraping Spesial Belut Surabaya - Jl. Ahmad Yani No.219 at: 2021-01-12 04:34:56.697824
+Started scraping Spesial Belut Surabaya H. Poer Cabang MANUKAN - Jl. Manukan Tama at: 2021-01-12 04:35:06.698901
+Finished scraping Spesial Belut Surabaya H. Poer Cabang MANUKAN - Jl. Manukan Tama at: 2021-01-12 04:35:10.706178
+Started scraping Spesial Belut Surabaya H. Poer - Jl. Bukit Mas No. 8c Villa Bukit Mas at: 2021-01-12 04:35:20.706242
+Finished scraping Spesial Belut Surabaya H. Poer - Jl. Bukit Mas No. 8c Villa Bukit Mas at: 2021-01-12 04:35:23.231487
+Started scraping SBS spesial Belut Surabaya Merr - Jl. Dr. Ir. H. Soekarno No.06 at: 2021-01-12 04:35:33.232546
+Finished scraping SBS spesial Belut Surabaya Merr - Jl. Dr. Ir. H. Soekarno No.06 at: 2021-01-12 04:35:34.542410
+Started scraping Spesial Belut Surabaya H. Poer - Dukuh Pakis at: 2021-01-12 04:35:44.543398
+Finished scraping Spesial Belut Surabaya H. Poer - Dukuh Pakis at: 2021-01-12 04:35:45.764897
+Started scraping Kantor Ekowisata Mangrove Wonorejo at: 2021-01-12 04:35:55.765100
+Finished scraping Kantor Ekowisata Mangrove Wonorejo at: 2021-01-12 04:37:05.857892
+Started scraping Ekowisata Mangrove Wonorejo at: 2021-01-12 04:37:15.858814
+Finished scraping Ekowisata Mangrove Wonorejo at: 2021-01-12 04:37:51.643651
+Started scraping Taman Persahabatan - Jl. Sulawesi No.67 at: 2021-01-12 04:38:01.644576
+Finished scraping Taman Persahabatan - Jl. Sulawesi No.67 at: 2021-01-12 04:38:15.564663
+Started scraping Taman Persahabatan - Jl. Dr. Soetomo No.84-92 at: 2021-01-12 04:38:25.565962
+Finished scraping Taman Persahabatan - Jl. Dr. Soetomo No.84-92 at: 2021-01-12 04:38:27.999834

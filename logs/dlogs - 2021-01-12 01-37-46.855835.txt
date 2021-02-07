@@ -1,0 +1,13 @@
+
+Started scraping Makam Peneleh at: 2021-01-12 01:37:46.856836
+Finished scraping Makam Peneleh at: 2021-01-12 01:37:48.181281
+Started scraping TITIK NOL Surabaya at: 2021-01-12 01:37:58.191392
+Finished scraping TITIK NOL Surabaya at: 2021-01-12 01:37:59.662139
+Started scraping Monumen Yos Sudarso at: 2021-01-12 01:38:09.673573
+Finished scraping Monumen Yos Sudarso at: 2021-01-12 01:38:10.923017
+Started scraping Penjara Kalisosok at: 2021-01-12 01:38:20.926571
+Finished scraping Penjara Kalisosok at: 2021-01-12 01:38:22.254011
+Started scraping Gedung Setan Surabaya at: 2021-01-12 01:38:32.255955
+Finished scraping Gedung Setan Surabaya at: 2021-01-12 01:38:33.773727
+Started scraping Taman Makam Pahlawan Sepuluh Nopember at: 2021-01-12 01:38:43.776174
+Finished scraping Taman Makam Pahlawan Sepuluh Nopember at: 2021-01-12 01:38:45.321220
