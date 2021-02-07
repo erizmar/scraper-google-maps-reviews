@@ -1,3 +1,0 @@
-
-Started scraping Pantai Kenjeran Lama at: 2021-02-03 01:23:31.989107
-Finished scraping Pantai Kenjeran Lama at: 2021-02-03 01:23:58.971268

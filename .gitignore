@@ -108,3 +108,11 @@ test/
 data/*.csv
 .DS_Store
 *.html
+
+# mine
+archivedurls.txt
+scrapedlist.txt
+test.ipynb_checkpoints
+logs/*
+data/*
+!data/gm_reviews.csv
